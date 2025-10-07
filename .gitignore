@@ -1,5 +1,8 @@
 *.out
 *.iml
 *.un~
-.vscode
-.idea
+*.vscode
+*.idea
+*/.idea
+*/.vscode
+.vscode/
